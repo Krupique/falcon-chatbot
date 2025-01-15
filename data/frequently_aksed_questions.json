@@ -1,0 +1,152 @@
+{
+    "questions":[
+       {
+          "question":"I was charged incorrectly. What should I do?",
+          "answer":"If Booking.com charged you incorrectly, visit the Help Center. We'll likely need a copy of your bank statement showing the incorrect charges as well as your booking confirmation number and PIN. If the property charged you incorrectly, reach out to the property directly for help."
+       },
+       {
+          "question":"How do I confirm that I paid for my booking?",
+          "answer":"You’ll find payment confirmation in your confirmation email. In the email, there's also an option to download the payment confirmation as a .pdf."
+       },
+       {
+          "question":"Where can I find my booking's payment policy?",
+          "answer":"Booking.com will charge your card for the total price of the booking when you book. If you're looking for more info about your payment, check your confirmation email."
+       },
+       {
+          "question":"I was charged. Do I need to do anything else?",
+          "answer":"No, you're all set. We charged you for the price of the booking. If there are additional taxes or charges, this info should be displayed on the property page."
+       },
+       {
+          "question":"Will I need to pay anything extra on arrival?",
+          "answer":"Sometimes you're expected to pay taxes and charges upon arrival. If this is the case, the amount is stated before you book and in your confirmation email. If no amount is stated, you shouldn't pay anything upon arrival. If the property requests money that you believe is incorrect, go to the Help Center for further support."
+       },
+       {
+          "question":"How do I add my booking to my account?",
+          "answer":"Unfortunately, it isn't possible to add this booking to your account. We're working on a way to enable this in the future."
+       },
+       {
+          "question":"Are meals included in my booking?",
+          "answer":"Your confirmation email will list any meals that are or aren't included. Depending on the property, you might be able to add a meal plan on arrival. Contact the property directly 1 or 2 days before your stay to learn more."
+       },
+       {
+          "question":"On arrival, the room/accommodation I was given didn't match what I booked. What should I do?",
+          "answer":"Visit the Help Center. You'll likely need to send our Customer Service team a screenshot of the mismatched info and—if you had to pay any extra fees—a receipt as proof of payment."
+       },
+       {
+          "question":"My booking was canceled. When will I be refunded? ",
+          "answer":"If your booking gets canceled, Booking.com refunds you immediately. The processing time takes 7 to 12 days, depending on your bank. For any questions, contact your bank directly."
+       },
+       {
+          "question":"Can I cancel my booking?",
+          "answer":"If your booking is non-refundable, you can't cancel. If your booking is free cancellation or partially refundable, check your confirmation email or the confirmation page under the 'Bookings' section of your account for the cancellation fees."
+       },
+       {
+          "question":"Can I make changes to my booking?",
+          "answer":"It's not possible to make any changes to your booking. This includes actions like changing the stay dates, guest name, or email address."
+       },
+       {
+          "question":"My booking was canceled or declined – what should I do?",
+          "answer":"Because this booking is facilitated by a partner company, the property may be overbooked. If that's the case, the partner will notify us. Next, we'll refund and cancel your booking. The processing time can take 7 to 10 days and depends on your bank. If you have questions, contact your bank directly."
+       },
+       {
+          "question":"If I need to cancel my booking, will I pay a fee?",
+          "answer":"If your booking is non-refundable, you can't cancel or make changes. If your booking is free cancellation or partially refundable, check your confirmation email or the confirmation page under the 'Bookings' section of your account for the cancellation fees."
+       },
+       {
+          "question":"How do I know if my booking was canceled?",
+          "answer":"After canceling a booking with us, you should get an email confirming the cancellation. Check your inbox and spam/junk mail folders. If you get an email from Booking.com about canceling your booking, your booking was canceled and we refunded you. The processing time will depend on your bank. For any questions, contact your bank directly."
+       },
+       {
+          "question":"Where can I find the cancellation policy?",
+          "answer":"You'll find it in your booking confirmation email."
+       },
+       {
+          "question":"Can I use a coupon or promotional link to make this booking?",
+          "answer":"No, this booking can't be made with rewards or incentive programs. Even if you use a unique link or code to make this booking, you won't be rewarded for this stay."
+       },
+       {
+          "question":"Can I use this booking towards my Genius level or membership?",
+          "answer":"No, this booking doesn't count towards your Genius bookings or membership level."
+       },
+       {
+          "question":"Is this booking eligible for We Price Match?",
+          "answer":"No, this booking isn't eligible for We Price Match."
+       },
+       {
+          "question":"Can I use credit to make this booking?",
+          "answer":"No, it’s not possible to use travel credit toward bookings facilitated by partner travel companies. Choose a different room or rate instead."
+       },
+       {
+          "question":"I paid for my booking but haven’t received a confirmation email. What should I do?",
+          "answer":"You'll get a confirmation email once your booking is confirmed. This should only take about two minutes but sometimes can take longer. Check your spam/junk mail folders for this email. It may be there by mistake. If you still haven't received any emails, reach out to our Customer Service team."
+       },
+       {
+          "question":"Can you resend my confirmation email?",
+          "answer":"We always resend your confirmation email a few days before check-in. If you have a Booking.com account, you can also find your confirmation under the Bookings section of your account. If you still need us to resend your confirmation email, reach out to our Customer Service team."
+       },
+       {
+          "question":"I can't find my confirmation email. What should I do?",
+          "answer":"First check your inbox and spam/junk mail folders – it might end up there by mistake. If you have a Booking.com account, you can also find your confirmation under the Bookings section of your account."
+       },
+       {
+          "question":"Why and how long do I need to wait for my booking to be confirmed?",
+          "answer":"We'll need to check with our partner travel company to make sure your selection is still available. We do our best to let you know within two minutes by email. Check your spam/junk mail folders in case this email ended up there by mistake."
+       },
+       {
+          "question":"My booking still isn't confirmed. What should I do?",
+          "answer":"You’ll get an email to let you know if your booking is confirmed within several minutes. Check your inbox and spam/junk mail folders for this email. If you still can't find the email, reach out to our Customer Service team."
+       },
+       {
+          "question":"My confirmation number doesn't work when I call Customer Service – what should I do?",
+          "answer":"If you contacted us by phone, the confirmation number may be too long to register correctly. Instead, go to the Help Center. If you're already speaking with a Customer Service agent, let them know this is an offer facilitated by a partner company (i.e. a 'Partner offer')."
+       },
+       {
+          "question":"The property is double-booked and/or can't find my booking. What should I do?",
+          "answer":"Visit the Help Center as soon as possible."
+       },
+       {
+          "question":"How do I request extra services from the property?",
+          "answer":"To request an extra service like an extra bed, early check-in, or transportation to the property, contact the property directly 1 or 2 days before arrival. There's no guarantee, but they might be able to help."
+       },
+       {
+          "question":"How do I request early or late check-in/-out?",
+          "answer":"To request a different check-in/-out time, contact the property directly 1 or 2 days before arrival. There's no guarantee, but they might be able to help."
+       },
+       {
+          "question":"How do I get more info about a property’s facilities?",
+          "answer":"Click the property name on the confirmation page to visit the property page. You'll see a complete list of property facilities there."
+       },
+       {
+          "question":"Can I change the guest name for this booking?",
+          "answer":"It’s not possible to change any personal details like the guest's name or email address."
+       },
+       {
+          "question":"Can I get extra beds/cribs for children?",
+          "answer":"It depends on the property’s policy. Typically, additional costs for children (including extra beds/cribs) aren't included in the price. Contact the property directly 1–2 days before your stay to find out more."
+       },
+       {
+          "question":"I can't find my booking in my account. What should I do?",
+          "answer":"If you were signed in when booking, it should appear in the Bookings section of your account. If you weren't signed in when booking, the booking won't appear, and you can't add this booking to your account. If you don’t have an account or weren't signed in when booking, check your inbox for your confirmation email."
+       },
+       {
+          "question":"How do I add my booking to my account?",
+          "answer":"Unfortunately, it isn't possible to add this booking to your account. We're working on a way to enable this in the future."
+       },
+       {
+          "question":"Are meals included in my booking?",
+          "answer":"Your confirmation email will list any meals that are or aren't included. Depending on the property, you might be able to add a meal plan on arrival. Contact the property directly 1 or 2 days before your stay to learn more."
+       },
+       {
+          "question":"On arrival, the room/accommodation I was given didn't match what I booked. What should I do?",
+          "answer":"Visit the Help Center. You'll likely need to send our Customer Service team a screenshot of the mismatched info and—if you had to pay any extra fees—a receipt as proof of payment."
+       },
+       {
+          "question":"What is a Partner offer?",
+          "answer":"To offer you more competitive prices, we sometimes partner with other companies. These offers are always paid for in advance and can't be booked in combination with other offers. Additionally, any changes to your personal or booking details after booking aren't possible."
+       },
+       {
+          "question":"How do you keep my personal details safe when working with partner companies?",
+          "answer":"We only provide partner companies (Trip Providers) with the info necessary to complete your booking. Read our Privacy statement for full details."
+       }
+    ]
+ }
