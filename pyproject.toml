@@ -7,7 +7,20 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+torch = { version = "^2.5.0", source = "pytorch" }
+torchvision = {version = "^0.20.1+cu118", source = "pytorch"}
+torchaudio = {version = "^2.5.1+cu118", source = "pytorch"}
+evaluate = "^0.4.3"
+transformers = "^4.48.0"
+bitsandbytes = "^0.45.0"
+peft = "^0.14.0"
+datasets = "^3.2.0"
+ipykernel = "^6.29.5"
 
+[[tool.poetry.source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu118"
+priority = "explicit"
 
 [build-system]
 requires = ["poetry-core"]
